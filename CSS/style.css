@@ -35,8 +35,8 @@ header {
     margin: auto;
 }
 
-h1 {
-    float: left;
+#logo {
+    width: 150px;
 }
 
 header .contenedor {
